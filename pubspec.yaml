@@ -1,0 +1,14 @@
+name: uniquetrack
+description: App WebView para o site UniqueTrack
+publish_to: 'none'
+
+environment:
+  sdk: ">=3.1.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.4.2
+
+flutter:
+  uses-material-design: true
